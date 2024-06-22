@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @KantLee
-- 👀 I’m interested in C/C++ and GIS
-- 🌱 I’m currently learning GIS development
+- 👀 I’m interested in C/C++ and Golang
+- 🌱 I’m also learning GIS development
 - 💞️ I’m looking to collaborate on secondary development of QGIS
 - 📫 Please contact me through cnlik@foxmail.com
 - 😄 Pronouns: he/him
